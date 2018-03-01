@@ -1,3 +1,4 @@
-# Cirilica-latinica
+# Simple ciryllic to latin converter
 
-<h1>Work in progress</h1>
+Conversion from ciryllic letters to latin for docx files.<br>
+Preserves formating using the python-docx module 0.8.6
